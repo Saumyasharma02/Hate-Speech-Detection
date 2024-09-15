@@ -53,4 +53,12 @@ Hate speech refers to any form of communication, whether spoken, written, or beh
    - **F1-Score**: A balance between precision and recall.
    - **Confusion Matrix**: To visualize the performance of the classification model.
 
+## Dataset
+The dataset used for this project is the Hate Speech and Offensive Language Dataset, available from Kaggle. The dataset consists of tweets labeled into three categories:
+* 0: Hate Speech
+* 1: Offensive Language
+* 2: Neither
+
+## Data Visualization
+![Class Distribution](images/logo.png)
 
