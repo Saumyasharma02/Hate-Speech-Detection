@@ -82,5 +82,5 @@ The Random Forest classifier achieved the highest accuracy among the models, wit
 * Naive Bayes Accuracy: 0.85 The model successfully classifies tweets into the correct categories based on features extracted using the TF-IDF vectorizer.
 
 ## Text Prediction
-!(result.png)
+![result](result.png)
 
